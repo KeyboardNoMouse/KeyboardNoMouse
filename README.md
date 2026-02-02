@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1a0000,4d0000&height=250&section=header&text=RITUN%20JAIN&fontSize=60&fontAlignY=45&fontColor=ff3333&desc=ARCHITECT%20OF%20RITUN%20OS&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1a0000,4d0000&height=250&section=header&text=RITUN%20JAIN&fontSize=60&fontAlignY=45&fontColor=ffffff&desc=ARCHITECT%20OF%20RITUN%20OS&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <h3 align="center">
@@ -23,7 +23,7 @@
 
 ## 🛑 SYSTEM LOGS / ABOUT ME
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtNBhN2I3a3B5eG53c3B5eG53c3B5eG53/LmT2eXv6rG9z2/giphy.gif" style="border-radius: 10px; border: 2px solid #ff3333;" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 10px; border: 2px solid #ff3333;" />
 
 > **User:** Ritun Jain  
 > **Status:** Online 🟢  
@@ -36,6 +36,8 @@
 
 <br clear="both"/>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&text_color=ffffff&icon_color=ff3333&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=radical&hide_border=true&title_color=ff3333&text_color=ffffff&icon_color=ff3333&bg_color=0D1117" />
 </div>
