@@ -42,5 +42,7 @@ Here are some highlights about my journey:
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7209B7" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <p style="color: #9D4EDD; font-family: monospace;">End of System Logs...</p>
 </div>
