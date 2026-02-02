@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=300&section=header&text=Ritun%20Jain&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=9d4edd&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,7B2CBF,9D4EDD&height=300&section=header&text=Ritun%20Jain&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Building+Ritun+OS+v3.0;Exploring+AI+Prompt+Engineering;Student+at+NIE+Mysuru" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Building+Ritun+OS+v3.0;Exploring+AI+Prompt+Engineering;Student+at+NIE+Mysuru" alt="Typing SVG" />
   </a>
 </h3>
 
