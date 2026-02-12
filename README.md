@@ -36,9 +36,6 @@ Here are some highlights about my journey:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
----
-
-## 📈 GitHub Activity 
 
 <p align="center">
 
