@@ -42,7 +42,6 @@ Here are some highlights about my journey:
 
 <p align="center">
 
-<!-- Working stats image -->
 ![GitHub Stats](https://github-stats.vercel.app/api?username=KeyboardNoMouse&theme=tokyonight)
 
 </p>
@@ -59,10 +58,10 @@ Here are some highlights about my journey:
 
 ---
 
-## 📌 Top Languages (Working)
+## 🧩 Top Languages (Working)
 
 <p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight)
 
 </p>
