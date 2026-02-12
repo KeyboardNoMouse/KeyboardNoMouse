@@ -18,7 +18,7 @@
 
 Here are some highlights about my journey:
 
-* 🎓 **Education:** B.Tech in Computer Engineering (AI & ML) at **NIE Mysuru** (2024-2028).
+* 🎓 **Education:** B.Tech in Computer Engineering (AI & ML) at **NIE Mysuru** (2024–2028).
 * 💻 **Current Project:** Building **Ritun OS v3.0**, a browser-based OS simulation with a realistic boot sequence.
 * 🛠️ **Tech Stack:** I work with **Python, Java, Django**, and **Tailwind CSS**.
 * 🤖 **Interests:** Passionate about **AI Prompt Engineering** and creating immersive web experiences.
@@ -42,16 +42,27 @@ Here are some highlights about my journey:
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Alternative working stats service -->
+![GitHub Stats](https://github-stats.vercel.app/api?username=KeyboardNoMouse&theme=tokyonight)
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity (Contributions)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KeyboardNoMouse&theme=tokyonight&margin-w=10" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight)
+
 </p>
 
 ---
+
+## 🧩 Top Languages
+
+<p align="center">
+
+![Top Languages](https://github-stats.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight)
+
+</p>
