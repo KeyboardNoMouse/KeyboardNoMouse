@@ -38,16 +38,6 @@ Here are some highlights about my journey:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-stats.vercel.app/api?username=KeyboardNoMouse&theme=tokyonight)
-
-</p>
-
----
-
 ## 📈 GitHub Activity 
 
 <p align="center">
