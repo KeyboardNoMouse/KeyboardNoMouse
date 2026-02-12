@@ -26,29 +26,25 @@ Here are some highlights about my journey:
 
 ---
 
-## 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
 
+  <br />
+  <br />
 
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight)
+<br />
 
-</p>
+<h2 align="center">🧩 Top Languages</h2>
 
----
-
-## 🧩 Top Languages 
-
-<p align="center">
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight)
-
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
