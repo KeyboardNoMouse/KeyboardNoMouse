@@ -48,7 +48,7 @@ Here are some highlights about my journey:
 
 ---
 
-## 📈 GitHub Activity (Contributions)
+## 📈 GitHub Activity 
 
 <p align="center">
 
@@ -58,7 +58,7 @@ Here are some highlights about my journey:
 
 ---
 
-## 🧩 Top Languages (Working)
+## 🧩 Top Languages 
 
 <p align="center">
 
