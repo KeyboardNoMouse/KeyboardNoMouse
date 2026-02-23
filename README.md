@@ -41,13 +41,13 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>**
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ## 📫 Connect with Me
 <div align="center">
