@@ -41,8 +41,6 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
   <img src="https://streak-stats.demolab.com/?user=KeyboardNoMouse&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -51,5 +49,5 @@
 ## 📫 Connect with Me
 <div align="center">
   <a href="https://ritun.space"><img src="https://img.shields.io/badge/Website-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ritunjain246@gmail.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
