@@ -44,6 +44,10 @@
   <img src="https://streak-stats.demolab.com/?user=KeyboardNoMouse&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
 ---
 
 ## 📫 Connect with Me
