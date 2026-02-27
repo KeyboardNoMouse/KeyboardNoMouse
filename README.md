@@ -44,10 +44,6 @@
   <img src="https://streak-stats.demolab.com/?user=KeyboardNoMouse&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
 ---
 
 ## 📫 Connect with Me
@@ -55,3 +51,8 @@
   <a href="https://ritun.space"><img src="https://img.shields.io/badge/Website-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:ritunjain246@gmail.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
