@@ -53,6 +53,8 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=14,18,20,24,27"
+    width="100%"
+  />
 </p>
-
