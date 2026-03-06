@@ -38,10 +38,17 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Metrics & Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KeyboardNoMouse&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyboardNoMouse&theme=tokyonight&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,django,tailwind,react,linux,github,discord&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 ---
@@ -50,6 +57,7 @@
 <div align="center">
   <a href="https://ritun.space"><img src="https://img.shields.io/badge/Website-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:ritunjain246@gmail.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/kbnomouse"><img src="https://img.shields.io/badge/Discord-9d4edd?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 <p align="center">
