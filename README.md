@@ -7,11 +7,15 @@
     </a>
   </h3>
   
- 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KeyboardNoMouse&label=Profile%20Views&color=9d4edd&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnP1K/giphy.gif" width="250" align="right" alt="Coding Hacker GIF" style="border-radius: 10px; margin-left: 20px;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" align="right" alt="Coding Terminal GIF" style="border-radius: 10px; margin-left: 20px;" />
 </div>
 
 ## 💻 System Initialization...
