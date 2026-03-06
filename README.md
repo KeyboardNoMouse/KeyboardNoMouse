@@ -25,8 +25,7 @@
 
 ## 🌌 Beyond the Screen
 When I'm not writing code or debugging cloud architecture, you can usually find me:
-* 🎬 **Creating:** Editing gaming walkthroughs (like *Detroit: Become Human*) and crafting thumbnails in Adobe Premiere Pro.
-* 🏍️ **Cruising:** Riding my Dapper Green Royal Enfield Hunter 350 around Mysuru.
+* 🎬 **Creating:** Making gaming walkthroughs on my Youtube Channel
 * ♟️ **Strategizing:** Always down for a tactical game of Chess.
 
 ---
