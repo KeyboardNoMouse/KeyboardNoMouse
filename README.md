@@ -6,9 +6,13 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=520&lines=Building+Ritun+OS+v3.0;Exploring+Prompt+Engineering;Crafting+Sky+Discord+Bot;Student+at+NIE+Mysuru" alt="Typing SVG" />
     </a>
   </h3>
-</div>
-
+  
+ 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnP1K/giphy.gif" width="250" align="right" alt="Coding Hacker GIF" style="border-radius: 10px; margin-left: 20px;" />
+</div>
 
 ## 💻 System Initialization...
 
@@ -17,9 +21,50 @@
 * 🤖 **AI Research:** Building **Sky**, a Discord chatbot powered by Google Gemini.
 * 🌐 **Domain:** Maintaining my personal space at [ritun.space](https://ritun.space).
 
+<br>
+
+## 🌌 Beyond the Screen
+When I'm not writing code or debugging cloud architecture, you can usually find me:
+* 🎬 **Creating:** Editing gaming walkthroughs (like *Detroit: Become Human*) and crafting thumbnails in Adobe Premiere Pro.
+* 🏍️ **Cruising:** Riding my Dapper Green Royal Enfield Hunter 350 around Mysuru.
+* ♟️ **Strategizing:** Always down for a tactical game of Chess.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KeyboardNoMouse&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+## 📊 Data & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KeyboardNoMouse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KeyboardNoMouse&theme=tokyonight&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&bg_color=1a1b26&color=9d4edd&line=9d4edd&point=a9b1d6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
 ---
 
 ## 🛠️ Tech Core (Specialized)
+
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,django,tailwind,react,linux,github,discord,pr,vscode&theme=dark&perline=12" alt="Tech Stack Icons" />
+  <br><br>
+</div>
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -32,29 +77,13 @@
 
 ## 🌟 Featured Projects
 
-* **Sky Discord Bot:** A smart assistant integrated with Gemini for seamless Discord interaction.
-* **Ritun OS v3.0:** A web-based operating system simulation with custom boot sequences.
-* **Event Management System:** A robust backend system built using C (Linked Lists & Queues).
+* 🤖 **Sky Discord Bot:** A smart assistant integrated with Gemini for seamless Discord interaction.
+* 💻 **Ritun OS v3.0:** A web-based operating system simulation with custom boot sequences.
+* 📅 **Event Management System:** A robust backend system built using C (Linked Lists & Queues).
 
 ---
 
-## 📊 GitHub Metrics & Stack
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=KeyboardNoMouse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KeyboardNoMouse&theme=tokyonight&layout=compact&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,js,django,tailwind,react,linux,github,discord&theme=dark" alt="Tech Stack Icons" />
-</div>
-
----
-
-
-## 📫 Connect with Me
+## 📫 Establish Connection
 <div align="center">
   <a href="https://ritun.space"><img src="https://img.shields.io/badge/Website-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:ritunjain246@gmail.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
