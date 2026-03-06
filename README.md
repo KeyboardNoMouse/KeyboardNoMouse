@@ -7,10 +7,6 @@
     </a>
   </h3>
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KeyboardNoMouse&label=Profile%20Views&color=9d4edd&style=for-the-badge" alt="Profile Views" />
-  </p>
-</div>
 
 ---
 
@@ -35,15 +31,6 @@ When I'm not writing code or debugging cloud architecture, you can usually find 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KeyboardNoMouse&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
 
 ## 📊 Data & Metrics
 
