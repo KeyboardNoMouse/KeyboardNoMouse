@@ -69,7 +69,7 @@ When I'm not writing code or debugging cloud architecture, you can usually find 
 
 * 🤖 **Sky Discord Bot:** A smart assistant integrated with Gemini for seamless Discord interaction.
 * 💻 **Ritun OS v3.0:** A web-based operating system simulation with custom boot sequences.
-* 📅 **Event Management System:** A robust backend system built using C (Linked Lists & Queues).
+* 📅 **NVMe Health Core:** A system built to predict failiure of NVMe drives.
 
 ---
 
