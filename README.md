@@ -13,7 +13,6 @@
 
 - 🎓 B.E. Computer Engineering (AI & ML), NIE Mysuru  
 - 🤖 Building **AI-powered systems & real-world ML projects**  
-- ⚙️ Creator of **Ritun OS v3.0**  
 - 💬 Built **Sky** — AI Discord Assistant  
 - 📊 Developed **NVMe Failure Predictor**  
 
@@ -36,12 +35,6 @@
 - Full-stack monitoring dashboard  
 
 🔗 https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor
-
----
-
-### 🖥️ Ritun OS v3.0
-- Browser-based OS simulation  
-- Terminal-inspired UI  
 
 ---
 
