@@ -28,9 +28,9 @@
 ```yaml
 Name     : Ritun Jain
 Role     : AI/ML Engineer · Full Stack Developer
-Degree   : B.E. Computer Engineering (AI & ML)
+Degree   : B.E. Computer Engineering (AI &amp; ML)
 College  : NIE Mysuru, Karnataka — Class of 2028
-Status   : Open to Internships & Collaborations
+Status   : Open to Internships &amp; Collaborations
 Location : Mysuru, India 🇮🇳
 ```
 
@@ -75,25 +75,25 @@ Location : Mysuru, India 🇮🇳
 <td width="50%" valign="top">
 
 ### 🤖 Sky — AI Discord Bot
-![Python](https://img.shields.io/badge/-Python-9d4edd?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-9d4edd?style=flat-square&logo=google&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord.py-9d4edd?style=flat-square&logo=discord&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-9d4edd?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-9d4edd?style=flat-square&amp;logo=google&amp;logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord.py-9d4edd?style=flat-square&amp;logo=discord&amp;logoColor=white)
 
 Custom Discord bot with real-time automated responses and intelligent conversation. Integrates Google Gemini API for advanced NLP — designed for scalability across multiple servers.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeyboardNoMouse/Discord-AI-Chatbot)
+[![Repo](https://img.shields.io/badge/View%20Repo-9d4edd?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/KeyboardNoMouse/Discord-AI-Chatbot)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💾 NVMe Drive Failure Predictor
-![Python](https://img.shields.io/badge/-Python-9d4edd?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine%20Learning-9d4edd?style=flat-square&logo=scikitlearn&logoColor=white)
-![Dashboard](https://img.shields.io/badge/-Fleet%20Dashboard-9d4edd?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-9d4edd?style=flat-square&amp;logo=python&amp;logoColor=white)
+![ML](https://img.shields.io/badge/-Machine%20Learning-9d4edd?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white)
+![Dashboard](https://img.shields.io/badge/-Fleet%20Dashboard-9d4edd?style=flat-square&amp;logo=grafana&amp;logoColor=white)
 
 AI-powered telemetry analysis engine predicting drive failures using Random Forest + SMOTE. Full-stack fleet dashboard for real-time monitoring and visualisation.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor)
+[![Repo](https://img.shields.io/badge/View%20Repo-9d4edd?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor)
 
 </td>
 </tr>
@@ -128,10 +128,10 @@ AI-powered telemetry analysis engine predicting drive failures using Random Fore
 
 <div align="center">
 
-![Meta](https://img.shields.io/badge/Meta%20%7C%20Front--End%20Development-9d4edd?style=for-the-badge&logo=meta&logoColor=white)
-![Michigan](https://img.shields.io/badge/UMich%20%7C%20Python%20Data%20Structures-9d4edd?style=for-the-badge&logo=python&logoColor=white)
-![DeepLearning](https://img.shields.io/badge/DeepLearning.AI%20%7C%20AI%20For%20Everyone-9d4edd?style=for-the-badge&logo=coursera&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM%20%7C%20Prompt%20Engineering%20Basics-9d4edd?style=for-the-badge&logo=ibm&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta%20%7C%20Front--End%20Development-9d4edd?style=for-the-badge&amp;logo=meta&amp;logoColor=white)
+![Michigan](https://img.shields.io/badge/UMich%20%7C%20Python%20Data%20Structures-9d4edd?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![DeepLearning](https://img.shields.io/badge/DeepLearning.AI%20%7C%20AI%20For%20Everyone-9d4edd?style=for-the-badge&amp;logo=coursera&amp;logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20%7C%20Prompt%20Engineering%20Basics-9d4edd?style=for-the-badge&amp;logo=ibm&amp;logoColor=white)
 
 </div>
 
@@ -143,7 +143,7 @@ AI-powered telemetry analysis engine predicting drive failures using Random Fore
 
 | Role | Organisation | Period |
 |:---|:---|:---:|
-| 🎬 **Student Council Member** — Media Team | ALPHA Innovation & Tinkerers' Lab, NIE Mysuru | Feb 2026 – Present |
+| 🎬 **Student Council Member** — Media Team | ALPHA Innovation &amp; Tinkerers' Lab, NIE Mysuru | Feb 2026 – Present |
 | 🤝 **Student Volunteer** | Youth For Seva | Nov 2025 – Present |
 
 </div>
