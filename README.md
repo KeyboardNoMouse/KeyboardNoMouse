@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=300&section=header&text=Ritun%20Jain&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=9d4edd&desc=AI%20and%20ML%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=520&lines=Building+Ritun+OS+v3.0;Exploring+Prompt+Engineering;Crafting+Sky+Discord+Bot;Student+at+NIE+Mysuru" alt="Typing SVG" />
-    </a>
-  </h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=9D4EDD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Ritun+OS+v3.0+%F0%9F%92%BB;Crafting+Sky+%E2%80%94+AI+Discord+Bot+%F0%9F%A4%96;Predicting+NVMe+Drive+Failures+%F0%9F%92%BE;Student+%40+NIE+Mysuru+%7C+AI+%26+ML+%F0%9F%8E%93;Always+one+commit+away+from+done+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
 <br>
 
 <div align="center">
