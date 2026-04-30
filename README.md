@@ -15,7 +15,6 @@
 
 - 🎓 B.E. Computer Engineering (AI & ML), NIE Mysuru  
 - 🤖 Building **AI-powered systems & real-world ML projects**  
-- ⚙️ Creating **Ritun OS v3.0** (browser-based OS simulation)  
 - 💬 Developing **Sky** — AI Discord assistant  
 - 📊 Built **NVMe Failure Predictor** (ML + SMOTE + dashboard)  
 
