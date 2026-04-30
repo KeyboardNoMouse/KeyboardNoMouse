@@ -1,9 +1,7 @@
-<!-- CLEAN HERO -->
+<!-- HERO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=220&section=header&text=Ritun%20Jain&fontSize=65&fontAlignY=42&animation=fadeIn&fontColor=9d4edd&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20NIE%20Mysuru&descAlignY=60&descSize=18" width="100%" />
 </p>
-
-<h2 align="center">⚡ Building AI Systems, Not Just Projects</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=9D4EDD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;System+Builder;Open+to+Internships" />
@@ -15,10 +13,11 @@
 
 - 🎓 B.E. Computer Engineering (AI & ML), NIE Mysuru  
 - 🤖 Building **AI-powered systems & real-world ML projects**  
-- 💬 Developing **Sky** — AI Discord assistant  
-- 📊 Built **NVMe Failure Predictor** (ML + SMOTE + dashboard)  
+- ⚙️ Creator of **Ritun OS v3.0**  
+- 💬 Built **Sky** — AI Discord Assistant  
+- 📊 Developed **NVMe Failure Predictor**  
 
-> I focus on building systems that are **useful, scalable, and actually deployed**.
+> I focus on building systems that are **scalable, useful, and real**.
 
 ---
 
@@ -27,7 +26,6 @@
 ### 🤖 Sky — AI Discord Assistant
 - Real-time AI responses (Gemini API)  
 - Multi-server scalable architecture  
-- Context-aware conversations  
 
 🔗 https://github.com/KeyboardNoMouse/Discord-AI-Chatbot
 
@@ -35,7 +33,6 @@
 
 ### 💾 NVMe Drive Failure Predictor
 - Random Forest + SMOTE  
-- Predictive analytics on telemetry  
 - Full-stack monitoring dashboard  
 
 🔗 https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor
@@ -44,8 +41,7 @@
 
 ### 🖥️ Ritun OS v3.0
 - Browser-based OS simulation  
-- Terminal-style UI  
-- Modular architecture  
+- Terminal-inspired UI  
 
 ---
 
@@ -55,26 +51,34 @@
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,tailwind,django,nodejs,mysql,git,linux" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 🎯 Current Focus
 
-- Scaling AI apps beyond prototypes  
+- Scaling AI applications  
 - Backend & system design  
-- Deploying ML models in real-world environments  
+- Production-ready ML  
 
 ---
 
