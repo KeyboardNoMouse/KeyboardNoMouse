@@ -4,7 +4,7 @@
 </p>
 
 <!-- Headline -->
-<h2 align="center">Full-Stack Developer and AI Engineer</h2>
+<p align="center"><b>Full-Stack Developer and AI Engineer</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;color=9D4EDD&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Ritun+OS+v3.0;Crafting+Sky+-+AI+Discord+Bot;NVMe+Drive+Failure+Prediction;Full+Stack+Dev+%7C+AI+%26+ML+Engineer;Student+%40+NIE+Mysuru+2024-2028" alt="Typing SVG" />
@@ -24,6 +24,7 @@
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - Bachelor of Engineering in **Computer Engineering (AI &amp; ML)** at NIE Mysuru
+- Building **Ritun OS v3.0** - a fully browser-based OS simulation
 - Crafting **Sky**, an AI Discord bot powered by Google Gemini
 - Predicted NVMe drive failures with **Random Forest + SMOTE**
 - Media Team at **ALPHA Innovation &amp; Tinkerers Lab**
@@ -39,7 +40,7 @@ Status   : Open to Internships & Collaborations
 Location : Mysuru, India
 ```
 
-<br clear="both" />
+<br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -74,6 +75,8 @@ Location : Mysuru, India
 - **[Sky - AI Discord Bot](https://github.com/KeyboardNoMouse/Discord-AI-Chatbot)** - Custom Discord bot powered by Google Gemini API with real-time NLP, automated responses, and multi-server scalability
 
 - **[NVMe Drive Failure Predictor](https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor)** - AI-powered telemetry engine predicting NVMe drive failures using Random Forest and SMOTE, with a full-stack fleet monitoring dashboard
+
+- **Ritun OS v3.0** - A browser-based operating system simulation with custom boot sequences and a terminal-inspired UI
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -130,7 +133,7 @@ Location : Mysuru, India
 </p>
 
 <p align="center">
-  Made by <b>Ritun Jain</b> | NIE Mysuru 2024-2028
+  Made with love by <b>Ritun Jain</b> | NIE Mysuru 2024-2028
 </p>
 
 <p align="center">
