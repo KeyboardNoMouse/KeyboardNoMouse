@@ -28,9 +28,9 @@
 ```yaml
 Name     : Ritun Jain
 Role     : AI/ML Engineer · Full Stack Developer
-Degree   : B.E. Computer Engineering (AI &amp; ML)
+Degree   : B.E. Computer Engineering (AI & ML)
 College  : NIE Mysuru, Karnataka — Class of 2028
-Status   : Open to Internships &amp; Collaborations
+Status   : Open to Internships & Collaborations
 Location : Mysuru, India 🇮🇳
 ```
 
