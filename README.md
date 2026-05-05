@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=9D4EDD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;System+Builder;Open+to+Internships" />
 </p>
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## 🧠 About Me
 
