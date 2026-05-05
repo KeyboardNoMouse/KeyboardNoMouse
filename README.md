@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=9D4EDD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;System+Builder;Open+to+Internships" />
 </p>
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🧠 About Me
 
@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 > I focus on building systems that are **scalable, useful, and real**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 Featured Work
 
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 🔗 https://github.com/KeyboardNoMouse/Discord-AI-Chatbot
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### 💾 NVMe Drive Failure Predictor
 - Random Forest + SMOTE  
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 🔗 https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,tailwind,django,nodejs,mysql,git,linux" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎯 Current Focus
 
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 - Backend & system design  
 - Production-ready ML  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🤝 Connect
 
@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
   <a href="https://www.linkedin.com/in/ritun-jain-23b683309/"><img src="https://img.shields.io/badge/LinkedIn-560BAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <p align="center">
   <i>"Build things that matter."</i>
