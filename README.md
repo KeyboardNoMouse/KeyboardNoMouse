@@ -21,8 +21,7 @@
 ## 🚀 Featured Work
 
 ### 🛠️ Dev Assistant MCP — AI-Powered Developer Tools for Claude
-- MCP server built with TypeScript + official Anthropic MCP SDK  
-- 9 tools: file reading, code search, repo summarization, and AI-powered analysis  
+- MCP server built with TypeScript + official Anthropic MCP SDK   
 - Gemini AI integration for code analysis, architecture review, security scanning, refactoring & semantic search  
 - Gives Claude direct access to your local filesystem and codebase  
 
