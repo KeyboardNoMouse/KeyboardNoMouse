@@ -35,7 +35,7 @@
 - Full slash command suite: `/modexplain`, `/riskreport`, `/summarize`, user appeals system  
 - Built with TypeScript + discord.js v14 + SQLite  
 
-🔗 https://github.com/KeyboardNoMouse/sentinel-bot
+🔗 https://github.com/KeyboardNoMouse/Sentinel_Discord_Bot****
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
