@@ -10,7 +10,7 @@
 ## 🧠 About Me
 - 🎓 B.E. Computer Engineering (AI & ML), NIE Mysuru  
 - 🤖 Building **AI-powered systems & real-world ML projects**  
-- 💬 Built **Sky** — AI Discord Assistant  
+- 🛡️ Built **Sentinel** — AI Discord Moderation Bot  
 - 🛠️ Built **Dev Assistant MCP** — AI dev tools server for Claude  
 - 📊 Developed **NVMe Failure Predictor**  
 
@@ -29,11 +29,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 🤖 Sky — AI Discord Assistant
-- Real-time AI responses (Gemini API)  
-- Multi-server scalable architecture  
+### 🛡️ Sentinel — AI Discord Moderation Bot
+- Context-aware toxicity detection via Gemini AI — understands intent, not just keywords  
+- Escalation tracking with auto-slowmode, crisis detection, and AI-powered raid protection  
+- Full slash command suite: `/modexplain`, `/riskreport`, `/summarize`, user appeals system  
+- Built with TypeScript + discord.js v14 + SQLite  
 
-🔗 https://github.com/KeyboardNoMouse/Discord-AI-Chatbot
+🔗 https://github.com/KeyboardNoMouse/sentinel-bot
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -54,11 +56,10 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
