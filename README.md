@@ -56,7 +56,11 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/KeyboardNoMouse?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=Followers&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/KeyboardNoMouse?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=Total%20Stars&logo=github&affiliations=OWNER" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-9d4edd?style=for-the-badge&labelColor=0d1117" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true&area=true" />
