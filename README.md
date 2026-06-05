@@ -56,10 +56,10 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=KeyboardNoMouse&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
