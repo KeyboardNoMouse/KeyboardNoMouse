@@ -1,100 +1,96 @@
-<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=220&section=header&text=Ritun%20Jain&fontSize=65&fontAlignY=42&animation=fadeIn&fontColor=9d4edd&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20NIE%20Mysuru&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=220&section=header&text=Ritun%20Jain&fontSize=65&fontAlignY=42&animation=fadeIn&fontColor=9d4edd&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20NIE%20Mysuru&descAlignY=62&descSize=17" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=9D4EDD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;MCP+Server+Builder;System+Builder;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=9D4EDD&center=true&vCenter=true&width=650&pause=1000&lines=AI+%26+ML+Engineer;MCP+Server+Builder;Full+Stack+Developer;Open+to+Internships" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🧠 About Me
-- 🎓 B.E. Computer Engineering (AI & ML), NIE Mysuru  
-- 🤖 Building **AI-powered systems & real-world ML projects**  
-- 🛡️ Built **Sentinel** — AI Discord Moderation Bot  
-- 🛠️ Built **Dev Assistant MCP** — AI dev tools server for Claude  
-- 📊 Developed **NVMe Failure Predictor**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-9d4edd?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP%20Builder-1D9E75?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-378ADD?style=flat-square&labelColor=0d1117" />
+</p>
 
-> I focus on building systems that are **scalable, useful, and real**.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+> Building AI systems that are **scalable, useful, and real** — from MCP tooling to production-ready ML.
 
-## 🚀 Featured Work
+---
 
-### 🛠️ Dev Assistant MCP — AI-Powered Developer Tools for Claude
-- MCP server built with TypeScript + official Anthropic MCP SDK   
-- Gemini AI integration for code analysis, architecture review, security scanning, refactoring & semantic search  
-- Gives Claude direct access to your local filesystem and codebase  
+## 🚀 Projects
 
-🔗 https://github.com/KeyboardNoMouse/dev-assistant-mcp
+### Dev Assistant MCP — AI Developer Tools for Claude
+MCP server built with TypeScript + Anthropic MCP SDK. Integrates Gemini AI for code analysis, architecture review, security scanning, refactoring, and semantic search. Gives Claude direct access to your local filesystem and codebase.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+`TypeScript` `MCP SDK` `Gemini AI` `Node.js` &nbsp;→&nbsp; [github.com/KeyboardNoMouse/dev-assistant-mcp](https://github.com/KeyboardNoMouse/dev-assistant-mcp)
 
-### 🛡️ Sentinel — AI Discord Moderation Bot
-- Context-aware toxicity detection via Gemini AI — understands intent, not just keywords  
-- Escalation tracking with auto-slowmode, crisis detection, and AI-powered raid protection  
-- Full slash command suite: `/modexplain`, `/riskreport`, `/summarize`, user appeals system  
-- Built with TypeScript + discord.js v14 + SQLite  
+---
 
-🔗 https://github.com/KeyboardNoMouse/Sentinel_Discord_Bot
+### Sentinel — AI Discord Moderation Bot
+Context-aware toxicity detection that understands intent, not just keywords. Features escalation tracking, auto-slowmode, crisis detection, AI-powered raid protection, and a full slash command suite with a user appeals system.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+`TypeScript` `discord.js v14` `Gemini AI` `SQLite` &nbsp;→&nbsp; [github.com/KeyboardNoMouse/Sentinel_Discord_Bot](https://github.com/KeyboardNoMouse/Sentinel_Discord_Bot)
 
-### 💾 NVMe Drive Failure Predictor
-- Random Forest + SMOTE  
-- Full-stack monitoring dashboard  
+---
 
-🔗 https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor
+### NVMe Drive Failure Predictor
+ML pipeline for proactive drive failure prediction using Random Forest + SMOTE for class imbalance correction, with a full-stack real-time monitoring dashboard.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+`Python` `scikit-learn` `Random Forest` `SMOTE` &nbsp;→&nbsp; [github.com/KeyboardNoMouse/NVMe-Drive-Failure-Predictor](https://github.com/KeyboardNoMouse/NVMe-Drive-Failure-Predictor)
+
+---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,tailwind,django,nodejs,mysql,git,linux" />
-</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Java · C |
+| **Frameworks** | React · Django · Node.js · Tailwind CSS |
+| **AI & ML** | Gemini AI · Anthropic MCP SDK · scikit-learn · SMOTE |
+| **Data & Storage** | MySQL · SQLite · pandas · NumPy |
+| **Tools & Infra** | Git · Linux · discord.js |
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/KeyboardNoMouse?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=Followers&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=transparent&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=888780&ring_color=9d4edd" height="150" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/KeyboardNoMouse?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=Total%20Stars&logo=github&affiliations=OWNER" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-9d4edd?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&theme=transparent&hide_border=true&title_color=9d4edd&text_color=888780" height="150" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KeyboardNoMouse&theme=transparent&hide_border=true&ring=9d4edd&fire=D85A30&currStreakLabel=9d4edd&sideLabels=888780&dates=888780" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=github-compact&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=D85A30" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🎯 Current Focus
-- Building MCP servers & AI tooling  
-- Scaling AI applications  
-- Backend & system design  
-- Production-ready ML  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+- Building MCP servers & AI tooling for developer workflows
+- Production-ready ML pipelines and system design
+- Scaling AI applications to real-world use cases
+
+---
 
 ## 🤝 Connect
+
 <p align="center">
   <a href="https://ritun.space"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;
   <a href="mailto:ritunjain246@gmail.com"><img src="https://img.shields.io/badge/Email-7209B7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ritun-jain-23b683309/"><img src="https://img.shields.io/badge/LinkedIn-560BAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<p align="center">
-  <i>"Build things that matter."</i>
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=14,18,20,24,27&height=120"/>
 </p>
