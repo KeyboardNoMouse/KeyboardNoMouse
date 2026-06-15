@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-9d4edd?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MCP%20Builder-1D9E75?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Web%20Dev-1D9E75?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Internships-378ADD?style=flat-square&labelColor=0d1117" />
 </p>
