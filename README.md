@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=9D4EDD&center=true&vCenter=true&width=650&pause=1000&lines=AI+%26+ML+Engineer;MCP+Server+Builder;Full+Stack+Developer;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=9D4EDD&center=true&vCenter=true&width=650&pause=1000&lines=Software+Engineer;Building+AI+Systems;Full+Stack+Developer;Open+to+Internships" />
 </p>
 
 <p align="center">
