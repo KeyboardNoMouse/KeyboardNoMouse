@@ -1,36 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=220&section=header&text=Ritun%20Jain&fontSize=65&fontAlignY=42&animation=fadeIn&fontColor=9d4edd&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20NIE%20Mysuru&descAlignY=62&descSize=17" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=9D4EDD&center=true&vCenter=true&width=650&pause=1000&lines=AI+Engineer;Building+AI+Systems;Full+Stack+Developer;Open+to+Internships" />
-</p>
+# Ritun Jain
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-9d4edd?style=flat-square&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Web%20Development-1D9E75?style=flat-square&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Internships-378ADD?style=flat-square&labelColor=0d1117" />
-</p>
+### AI Engineer • Full Stack Developer • CSE (AI & ML) @ The National Institute of Engineering, Mysuru
+
+Building intelligent software with **Python, TypeScript, Machine Learning, and Full Stack Development**.
+
+[Portfolio](https://ritun.space) • [LinkedIn](https://www.linkedin.com/in/ritun-jain-23b683309/) • [Email](mailto:ritunjain246@gmail.com)
+
+</div>
 
 ---
 
-# 👋 Hi, I'm Ritun Jain
+## About Me
 
-> Building AI systems that are **scalable, useful, and production-ready** — from intelligent developer tools to machine learning applications solving real-world problems.
+I'm a Computer Science (AI & ML) student passionate about building practical AI systems and scalable software.
+
+My interests include:
+
+- Machine Learning
+- AI-powered Developer Tools
+- Full Stack Web Development
+- Backend Systems
+- System Design
+
+Currently looking for **Software Engineering** and **AI/ML Internship** opportunities.
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🔹 Dev Assistant MCP — AI Developer Toolkit
+### Dev Assistant MCP
 
-AI-powered MCP server built with the Anthropic Model Context Protocol SDK. Provides intelligent code analysis, architecture review, semantic search, refactoring assistance, security scanning, and filesystem integration for Claude.
+AI-powered developer toolkit built using the Model Context Protocol.
 
-**Tech Stack**
+**Highlights**
 
-`TypeScript` • `Node.js` • `Anthropic MCP SDK` • `Gemini AI`
+- Code analysis
+- Architecture review
+- Semantic search
+- Refactoring assistance
+- Gemini integration
+- Local filesystem tools
+
+**Tech**
+
+`TypeScript` `Node.js` `Gemini AI` `Anthropic MCP`
 
 **Repository**
 
@@ -38,13 +53,25 @@ https://github.com/KeyboardNoMouse/dev-assistant-mcp
 
 ---
 
-## 🔹 Sentinel — AI Discord Moderation Bot
+### Sentinel
 
-Context-aware moderation bot capable of understanding intent rather than relying on keyword filtering. Includes toxicity detection, raid protection, escalation tracking, crisis detection, auto slowmode, appeals system, and slash commands.
+AI Discord moderation system capable of understanding context instead of relying only on keyword filtering.
 
-**Tech Stack**
+**Features**
 
-`TypeScript` • `discord.js v14` • `Gemini AI` • `SQLite`
+- Toxicity detection
+- AI moderation
+- Crisis detection
+- Raid protection
+- Appeals system
+- Slash commands
+
+**Tech**
+
+`TypeScript`
+`discord.js`
+`SQLite`
+`Gemini AI`
 
 **Repository**
 
@@ -52,13 +79,24 @@ https://github.com/KeyboardNoMouse/Sentinel_Discord_Bot
 
 ---
 
-## 🔹 NVMe Drive Failure Predictor
+### NVMe Drive Failure Predictor
 
-Machine learning system for predicting SSD failures using SMART telemetry. Includes feature engineering, SMOTE balancing, Random Forest classification, and a real-time monitoring dashboard.
+Machine Learning pipeline for predicting SSD failures from SMART telemetry.
 
-**Tech Stack**
+**Highlights**
 
-`Python` • `scikit-learn` • `Random Forest` • `SMOTE`
+- Feature Engineering
+- Random Forest
+- SMOTE
+- Dashboard
+- Predictive Analytics
+
+**Tech**
+
+`Python`
+`scikit-learn`
+`Pandas`
+`Random Forest`
 
 **Repository**
 
@@ -66,83 +104,71 @@ https://github.com/KeyboardNoMouse/NVMe-Drive-Failiure-Predictor
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-| Category | Technologies |
-|------------|--------------|
-| **Languages** | Python • TypeScript • JavaScript • Java • C |
-| **Frontend** | React • Tailwind CSS • HTML • CSS |
-| **Backend** | Django • Node.js |
-| **AI / Machine Learning** | Gemini AI • Anthropic MCP SDK • scikit-learn • pandas • NumPy |
-| **Databases** | MySQL • SQLite |
-| **Developer Tools** | Git • Linux • VS Code • discord.js |
+### Languages
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square)
 
-# 📊 GitHub Statistics
+### Frameworks
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyboardNoMouse&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=9d4edd&icon_color=9d4edd&text_color=888780&ring_color=9d4edd&cache_seconds=1800"/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyboardNoMouse&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=9d4edd&text_color=888780&cache_seconds=1800"/>
-</p>
+### AI & Data
 
-<p align="center">
-<img width="75%" src="https://streak-stats.demolab.com?user=KeyboardNoMouse&theme=transparent&hide_border=true&ring=9d4edd&fire=D85A30&currStreakLabel=9d4edd&sideLabels=888780&dates=888780"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeyboardNoMouse&theme=github-compact&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=D85A30"/>
-</p>
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
 ---
 
-# 🎯 Currently Working On
+## Currently Learning
 
-- 🤖 AI Developer Tools using MCP
-- 🧠 Production-ready Machine Learning Systems
-- 🌐 Full Stack AI Applications
-- 📚 Data Structures & Algorithms
-- 💼 Preparing for Software Engineering & AI Internships
-
----
-
-# 📈 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KeyboardNoMouse&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
+- Advanced Data Structures & Algorithms
+- Computer Vision
+- System Design
+- MLOps
+- Large Language Models
 
 ---
 
-# 📫 Connect With Me
+## Goals for 2026
 
-<p align="center">
-
-<a href="https://ritun.space">
-<img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:ritunjain246@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7209B7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/ritun-jain-23b683309/">
-<img src="https://img.shields.io/badge/LinkedIn-560BAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+- Secure an AI / Software Engineering Internship
+- Build production-ready AI applications
+- Contribute to Open Source
+- Strengthen DSA and System Design
+- Publish more technical projects
 
 ---
 
-<p align="center">
-<i>Always learning. Always building. Always improving.</i>
-</p>
+## Connect
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=14,18,20,24,27&height=120"/>
-</p>
+Portfolio
+
+https://ritun.space
+
+LinkedIn
+
+https://www.linkedin.com/in/ritun-jain-23b683309/
+
+Email
+
+ritunjain246@gmail.com
+
+---
+
+<div align="center">
+
+*"Code should solve real problems, not just pass tests."*
+
+</div>
