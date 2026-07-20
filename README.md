@@ -1,6 +1,7 @@
-<div align="center">
 
-# Ritun Jain
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Ritun%20Jain&fontSize=55&color=0:6C63FF,100:A855F7&stroke=A855F7&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=70"/>
+</p>
 
 ### AI Engineer • Full Stack Developer • CSE (AI & ML) @ The National Institute of Engineering, Mysuru
 
